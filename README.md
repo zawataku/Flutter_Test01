@@ -1,6 +1,6 @@
-# testapp01
+# Flutter_Test01
 
-A new Flutter project.
+Flutter勉強用リポジトリ
 
 ## Getting Started
 
